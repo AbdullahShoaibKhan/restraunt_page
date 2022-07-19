@@ -4,7 +4,7 @@ console.log('incontact');
     innerdata.innerHTML='';
     let contact=document.createElement('p');
     contact.classList.add('contact');
-    contact.innerText=`I guess you really are starving are starving,here's my number "000-111-222-43" I'll make an exception for ya`;
+    contact.innerText=`I guess you really are starving,here's my number "000-111-222-43" I'll put some extra effort in your order`;
     
     let map=document.createElement('iframe');
     map.classList.add('map');
